@@ -2,4 +2,8 @@ build
 .gradle
 .idea
 *.iml
+
+# OS generated files #
+######################
 .DS_Store
+.DS_Store?
